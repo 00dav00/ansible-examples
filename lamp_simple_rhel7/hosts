@@ -1,7 +1,7 @@
 [webservers]
-webserver.local
+127.0.0.1:9022
 
 [dbservers]
-dbserver.local
+127.0.0.1:9022
 
 
